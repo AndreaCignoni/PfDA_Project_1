@@ -42,4 +42,38 @@ The notebook provides a comprehensive overview of the trends observed in the auc
 This project lays the foundation for predicting record prices. Future work may involve implementing machine learning models to make more accurate predictions based on the identified parameters. Additionally, expanding the dataset and incorporating external factors could enhance the model's predictive capabilities.
 Feel free to explore the *Jupyter Notebook* to delve into the details of the analysis and gain a deeper understanding of the factors influencing record prices.
 
+***
+
+## *Table of Contents*
+
+1. **[Pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)**
+   - Official documentation for *Pandas*. A comprehensive guide for working with data frames and series in Python.
+
+2. **[W3Schools - Random Module](https://www.w3schools.com/python/module_random.asp)**
+   -*W3School*s* tutorial on the Python Random module. Learn how to generate random numbers and perform randomization in Python.
+
+3. **[Matplotlib Quick Start Guide](https://matplotlib.org/stable/users/explain/quick_start.html)**
+   - Quick start guide from *Matplotlib*. Essential information to get started with creating visualizations in Python.
+
+4. **[Java Exercise - Nested Tuples](https://www.javaexercise.com/python/python-nested-tuples)**
+   - Tutorial on *nested tuples* in Python. Understanding the concept of *nested tuples* and their applications.
+
+5. **[Real Python - Python Dictionaries](https://realpython.com/python-dicts/)**
+   - Real Python's guide to *Python dictionaries*. Explore the fundamentals and advanced usage of *dictionaries* in Python.
+
+6. **[I/O FOOD - Guide to Using Empty Lists in Python](https://ioflood.com/blog/python-empty-list-guide-to-using-empty-lists-in-python/)**
+   - *I/O FOOD*'s comprehensive guide on using empty lists in Python. Learn best practices and use cases for empty lists.
+
+7. **[Pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)**
+   - Revisit the *Pandas User Guide* for quick reference and in-depth understanding of Pandas functionalities.
+
+8. **[GeeksforGeeks - Unpacking a Tuple in Python](https://www.geeksforgeeks.org/unpacking-a-tuple-in-python/)**
+   - *GeeksforGeeks* tutorial on unpacking a tuple in Python. Uncover the techniques and benefits of tuple unpacking.
+
+9. **[Codecademy - Pandas DataFrame Loc](https://www.codecademy.com/resources/docs/pandas/dataframe/loc)**
+   - *Codecademy*'s resource on *Pandas DataFrame Loc*. Learn how to access and manipulate data using the *loc* method.
+
+10. **[Built In - Adding a Column in Pandas](https://builtin.com/data-science/pandas-add-column)**
+    - Built In's guide on adding a column in *Pandas*. Understand different methods to add columns to a *Pandas DataFrame*.
+
  </div>
