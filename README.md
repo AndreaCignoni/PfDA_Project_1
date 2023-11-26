@@ -23,7 +23,8 @@ This project has been developed using **Python** and its powerful tools and, in 
 * Ensure Python is Installed:
 Make sure you have Python installed on your machine.
 * Clone the Repository:
-Clone the repository to your local machine:
+Clone the repository to your local machine:  
+
 `git clone https://github.com/AndreaCignoni/PfDA_Project_1.git`
 * Install Required Libraries:
 Install the necessary libraries using the following command:
