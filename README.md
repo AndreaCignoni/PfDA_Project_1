@@ -50,7 +50,7 @@ Feel free to explore the *Jupyter Notebook* to delve into the details of the ana
    - Official documentation for *Pandas*. A comprehensive guide for working with data frames and series in Python.
 
 2. **[W3Schools - Random Module](https://www.w3schools.com/python/module_random.asp)**
-   -*W3School*s* tutorial on the Python Random module. Learn how to generate random numbers and perform randomization in Python.
+   - W3School tutorial on the Python Random module. Learn how to generate random numbers and perform randomization in Python.
 
 3. **[Matplotlib Quick Start Guide](https://matplotlib.org/stable/users/explain/quick_start.html)**
    - Quick start guide from *Matplotlib*. Essential information to get started with creating visualizations in Python.
