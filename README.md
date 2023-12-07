@@ -1,7 +1,7 @@
  <div align="justify">
 
 # Programming for Data Analysis Assignment: Project 1
-![Records](image-1.png)
+![Alt text](img/Records.png)
 ## Record Price Prediction Model
 
 ### Overview
