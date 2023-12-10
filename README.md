@@ -76,4 +76,7 @@ Feel free to explore the *Jupyter Notebook* to delve into the details of the ana
 10. **[Built In - Adding a Column in Pandas](https://builtin.com/data-science/pandas-add-column)**
     - Built In's guide on adding a column in *Pandas*. Understand different methods to add columns to a *Pandas DataFrame*.
 
+***
+
+### End
  </div>
