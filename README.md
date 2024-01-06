@@ -44,7 +44,7 @@ Feel free to explore the *Jupyter Notebook* to delve into the details of the ana
 
 ***
 
-## *Table of Contents*
+## *References*
 
 1. **[Pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)**
    - Official documentation for *Pandas*. A comprehensive guide for working with data frames and series in Python.
